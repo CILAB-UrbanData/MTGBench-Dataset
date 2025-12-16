@@ -198,5 +198,5 @@ if __name__ == "__main__":
     convertTraj2SF(
         input_dir = "data/GaiyaData/RoadMatch/processed", 
         pattern = "matched_*.csv",              
-        output_csv = "data/GaiyaData/TRACK/traj_converted.csv"
+        output_csv = "data/GaiyaData/traj_converted.csv"
     )
